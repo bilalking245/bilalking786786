@@ -1,4 +1,4 @@
-#!/usr/bin/python2 bilalking786786 .py
+#!/usr/bin/python2 bilalking786786.py
 #coding=utf-8
 
 
@@ -426,7 +426,7 @@ def pilih_super():
 \033[0;30;39───────────────────────────────────────────
            """
 	raw_input("\n\033[0;39m[\033[0;39mExit\033[0;39m]")
-	os.system('python2 a')
+	os.system('python2 Bilalking786786.py')
 
 def brute():
     os.system('clear')
