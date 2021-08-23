@@ -1,4 +1,4 @@
-#!/usr/bin/python2 bilalking786786
+#!/usr/bin/python2 bilalking786786 .py
 #coding=utf-8
 
 
@@ -101,7 +101,7 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('python2 Bilalking786786)
+            os.system('python2 Bilalking786786.py)
     else:
         print "Wrong Username"
         os.system('python2 Bilalking786786')
